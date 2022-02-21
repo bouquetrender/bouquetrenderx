@@ -4,6 +4,7 @@
 
 A unprecedentedly web developer based in China, currently working on my full time job, good at ctrl c/v and front-end development, all of my tiny projects are available at Github.
 
+- New Personal Project [Samurai Voice](https://samuraivoice.vercel.app)
 - Read more about my [Blog](https://bouquetrender.github.io/)
 - Talk with me by [Email](mailto:bouquetrender@gmail.com)
 - Follow me on [Twitter](https://twitter.com/bouquetrender) or [Instagram](https://instagram.com/bouquetrender)
