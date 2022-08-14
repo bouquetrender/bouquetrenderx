@@ -7,8 +7,3 @@ A normal web developer based in China, currently working on my full time job, go
 - Read more about my [Blog(Chinese)](https://bouquetrender.github.io)
 - Talk with me by [Email](mailto:bouquetrender@gmail.com)
 - Follow me on [Twitter](https://twitter.com/bouquetrender) or [Instagram](https://instagram.com/bouquetrender)
-
-<img
-	src="https://spotify-badge-ajgne6oxu-bouquetrender.vercel.app/api/now-playing.svg"
-	height="52"
-/>
